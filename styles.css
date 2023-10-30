@@ -1,3 +1,10 @@
 body {
   background-color: lightblue;
 }
+
+.Page {
+   width: 600px;
+  height: 250px;
+  background-color: black;
+  
+}
