@@ -1,10 +1,19 @@
 body {
-  background-color: lightblue;
+    background-color: lightblue;
 }
 
 .Page {
-   width: 600px;
-  height: 250px;
-  background-color: black;
-  
+    width: 600px;
+    height: 250px;
+    background-color: black;
+
 }
+
+H1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13vh;
+    rgb (9,14,121);
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}  
